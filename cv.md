@@ -77,3 +77,4 @@ function even_or_odd(number) {
 ### Languages
 
 - Russian - native
+- English - A1 
